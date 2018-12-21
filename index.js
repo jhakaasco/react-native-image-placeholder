@@ -90,7 +90,7 @@ const styles = {
   },
   viewImageStyles: {
     flex: 1,
-    backgroundColor: '#e9eef1',
+    backgroundColor: '#ffffff',
     justifyContent: 'center',
     alignItems: 'center'
   },
